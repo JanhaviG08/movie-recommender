@@ -26,14 +26,7 @@ A personalized movie recommendation system using Streamlit and TMDB API that sug
 2. Install required libraries:  pip install -r requirements.txt
 3. Run the Streamlit app:  streamlit run app.py
 
-
 ---
-
-## 🖼️ Screenshots
-
-
----
-
 ## 📁 Dataset
 - A curated `movies.csv` file with:
 - Title
